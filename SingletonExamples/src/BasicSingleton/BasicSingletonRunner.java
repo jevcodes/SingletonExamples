@@ -12,7 +12,7 @@ public class BasicSingletonRunner {
 
 		RecordPlayer.getRecordPlayer().setCD(drake);
 		
-		System.out.println(RecordPlayer.getRecordPlayer.play(1));
+		System.out.println(RecordPlayer.getRecordPlayer().play(1));
 
 	}
 
