@@ -11,8 +11,8 @@ public class BasicSingletonRunner {
 		RecordPlayer.getRecordPlayer().play(1);
 
 		RecordPlayer.getRecordPlayer().setCD(drake);
-
-		RecordPlayer.getRecordPlayer().play(1);
+		
+		System.out.println(RecordPlayer.getRecordPlayer.play(1));
 
 	}
 
