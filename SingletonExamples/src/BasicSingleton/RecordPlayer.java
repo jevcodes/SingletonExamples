@@ -4,7 +4,7 @@ public class RecordPlayer {
 
 	private CD cd;
 
-	private static RecordPlayer rp = new RecordPlayer();
+	private static final RecordPlayer rp = new RecordPlayer();
 
 	private RecordPlayer() {
 
